@@ -37,17 +37,15 @@ const About = () => {
         className="mt-10 flex flex-col md:flex-row justify-center gap-4"
         data-aos="zoom-out-up"
       >
-        {/* <a href="/AtikHassan_CV.pdf" download>
+        <a href="https://drive.google.com/file/d/1DpfCssH-1KAI72EPJODSwu4ML1wUqG78/view" target="_blank" rel="noopener noreferrer">
           <button className="btn bg-gradient-to-r from-indigo-600 via-indigo-500 to-purple-500 text-white">
             <IoDocumentTextOutline /> Download CV
           </button>
-        </a> */} 
-        {/* eta thak jkhn CV banano hoye jabe..eta diye try korbo */}
-
-
-          <button className="btn bg-gradient-to-r from-indigo-600 via-indigo-500 to-purple-500 text-white">
+        </a> 
+        {/* eta thak jkhn CV banano hoye jabe..eta diye try korbo....cv banano hoye geche tai a er vitor kaj shere felsi */}
+          {/* <button className="btn bg-gradient-to-r from-indigo-600 via-indigo-500 to-purple-500 text-white">
             <IoDocumentTextOutline /> Download CV
-          </button>
+          </button> */}
           
         <Link to="portfolio">
           <button className="btn btn-outline text-white border-purple-500 hover:bg-purple-600 hover:text-white transition">
