@@ -40,7 +40,7 @@ Enhancing digital experiences that are smooth, scalable, and made to impress.
       </div>
       </div>
       <div data-aos="fade-up">
-      <Link className="btn gradient-to-r from-blue-500 via-purple-600 to-purple-500 border border-indigo-500 drop-shadow-md drop-shadow-indigo-500 ">Resume<IoArrowDownCircleOutline size={20}/></Link>
+      <a href='https://drive.google.com/file/d/1-eXafmHCxnBpRB6abGqaeuFkbOnBOEno/view' target="_blank" rel="noopener noreferrer" className="btn gradient-to-r from-blue-500 via-purple-600 to-purple-500 border border-indigo-500 drop-shadow-md drop-shadow-indigo-500 ">Resume<IoArrowDownCircleOutline size={20}/></a>
       <Link to="contact" className="btn gradient-to-r from-blue-500 via-purple-600 to-purple-500 border border-indigo-500 drop-shadow-md drop-shadow-indigo-500 ms-4">Contact Me<MdOutlineMail size={20}/></Link>
 </div>
 {/* social icon */}
@@ -50,7 +50,7 @@ Enhancing digital experiences that are smooth, scalable, and made to impress.
           <FaGithub />
         </div>
       </a>
-      <a href="https://linkedin.com" target="_blank" rel="noreferrer">
+      <a href="https://www.linkedin.com/in/md-atik-hassan-522139374" target="_blank" rel="noreferrer">
       <div className="text-white text-2xl bg-[#0f0f1a] rounded-xl p-3 shadow-lg shadow-purple-500/30 hover:shadow-purple-500/60 transition duration-300">
           <FaLinkedinIn />
         </div>
